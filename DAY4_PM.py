@@ -1,4 +1,4 @@
-###DAY3 DSA PROGRAMS
+###DAY4 DSA PROGRAMS
 
 #Remove duplicates in list
 num=[1,3,5,6,5,3,4,6,7,2]
@@ -185,5 +185,6 @@ lengths=[]
 for word in list:
     lengths.append(len(word))
 print("length of each word:",lengths)
+
 
 
